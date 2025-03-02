@@ -1,1 +1,1 @@
-export const sitename = "CoralApp";
+export const sitename = "nftxengine";

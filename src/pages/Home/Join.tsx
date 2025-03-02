@@ -49,7 +49,7 @@ export default function Join() {
 
         <Card
           title="Mint Your NFT"
-          description="Bring your ideas to life! Mint your unique CoralApp NFT and own a piece of the collection."
+          description="Bring your ideas to life! Mint your unique nftxengine NFT and own a piece of the collection."
           icon="shopping-bag"
           step="02"
         />

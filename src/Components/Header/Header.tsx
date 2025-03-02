@@ -15,7 +15,7 @@ export const ConnectBtn = () => {
           btnTitle="Connect Wallet"
           modalSize="compact"
           modalTitleIconUrl="./nfts/1.png"
-          modalTitle="CoralApp"
+          modalTitle="nftxengine"
           switchToActiveChain
         />
       ) : (
@@ -24,7 +24,7 @@ export const ConnectBtn = () => {
           btnTitle="Connect Wallet"
           modalSize="compact"
           modalTitleIconUrl="./nfts/1.png"
-          modalTitle="CoralApp"
+          modalTitle="nftxengine"
           switchToActiveChain
         />
       )}
@@ -70,7 +70,7 @@ const Header = () => {
                 title="social"
                 className="text-xl text-white hover:text-primary-red"
                 target="_blank"
-                href="https://t.me/coralapp"
+                href="https://t.me/nftxengine"
               >
                 <Icon icon="telegram" />
               </a>
@@ -79,7 +79,7 @@ const Header = () => {
                 title="social"
                 className="text-xl text-white hover:text-primary-red"
                 target="_blank"
-                href="https://www.x.com/mycoralapp"
+                href="https://www.x.com/mynftxengine"
               >
                 <img
                   className="w-6 h-6 object-cover mb-1 rounded-full"

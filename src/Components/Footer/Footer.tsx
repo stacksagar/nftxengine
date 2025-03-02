@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="mt-auto bg-[#070c17] text-white">
       <div className="section_border_t">
         <div className="content py-10 flex flex-col sm:flex-row gap-2 items-center justify-center md:justify-between">
-          <p className="text-center">© 2025 CoralApp. All Rights Reserved.</p>
+          <p className="text-center">© 2025 nftxengine. All Rights Reserved.</p>
 
           <div className="flex flex-wrap gap-4 justify-center items-center">
             <a
@@ -13,7 +13,7 @@ export default function Footer() {
               title="social"
               className="text-3xl text-white hover:text-blue-400"
               target="_blank"
-              href="https://www.x.com/mycoralapp"
+              href="https://www.x.com/mynftxengine"
             >
               <img
                 className="w-7 sm:w-12"
@@ -26,7 +26,7 @@ export default function Footer() {
               title="social"
               className="text-xl sm:text-3xl text-white hover:text-blue-400"
               target="_blank"
-              href="https://t.me/coralapp"
+              href="https://t.me/nftxengine"
             >
               <Icon icon="telegram" />
             </a>

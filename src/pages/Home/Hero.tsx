@@ -68,7 +68,7 @@ export default function Hero() {
             >
               <Button className="!bg-primary-darklight !rounded-xl ">
                 <div className="bogart-medium-italic tracking-wider">
-                  Trade Coral
+                  Trade 
                 </div>
               </Button>
             </a>
