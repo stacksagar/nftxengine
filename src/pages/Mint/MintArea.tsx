@@ -55,7 +55,7 @@ export default function MintArea() {
             <h5 className="text-xl font-medium tracking-wide pb-2"></h5>
 
             <p className="text-lg">
-              {totalMinted?.toNumber() || 0}/{totalSupply?.toNumber() || 13000}
+              {totalMinted?.toNumber() || 0}/{totalSupply?.toNumber() || 10000}
             </p>
           </div>
           <div className="rounded-lg border border-gray-700 bg-primary-light shadow-lg flex flex-col md:flex-row items-center justify-between">

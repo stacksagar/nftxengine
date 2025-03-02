@@ -85,7 +85,7 @@ export default function Hero() {
       >
         <div className="flex flex-col gap-y-1 justify-start items-start p-5">
           <span className="text-2xl sm:text-4xl font-extrabold tracking-wide text-blue-100 azo-sans-bold">
-            {13000}
+            {10000}
           </span>
           <span className="font-semibold font-plus text-gray-300">
             Total Supply
