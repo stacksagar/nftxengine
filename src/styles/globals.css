@@ -51,8 +51,7 @@ body {
 
 /* hero */
 #hero-bg {
-  background: linear-gradient(to right, #000000e4, #000000c6),
-    url("https://res.cloudinary.com/dkxbkydf5/image/upload/v1738908431/uscvlunc4bfxjdo8guco.gif");
+  background: linear-gradient(to right, #000000e4, #000000c6), url("./bg.gif");
   background-repeat: no-repeat;
   background-size: cover;
 }
