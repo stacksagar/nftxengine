@@ -1,0 +1,346 @@
+/* Bogart Fonts */
+@font-face {
+  font-family: "Bogart-Extrabold";
+  src: url("/fonts/bogart/Bogart-Extrabold-trial.ttf") format("truetype");
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: "Bogart-Extrabold-Italic";
+  src: url("/fonts/bogart/Bogart-Extrabold-Italic-trial.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Bogart-Extralight";
+  src: url("/fonts/bogart/Bogart-Extralight-trial.ttf") format("truetype");
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "Bogart-Extralight-Italic";
+  src: url("/fonts/bogart/Bogart-Extralight-Italic-trial.ttf")
+    format("truetype");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Bogart-Italic";
+  src: url("/fonts/bogart/Bogart-Italic-trial.ttf") format("truetype");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Bogart-Light";
+  src: url("/fonts/bogart/Bogart-Light-trial.ttf") format("truetype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Bogart-Light-Italic";
+  src: url("/fonts/bogart/Bogart-Light-Italic-trial.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Bogart-Medium";
+  src: url("/fonts/bogart/Bogart-Medium-trial.ttf") format("truetype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Bogart-Medium-Italic";
+  src: url("/fonts/bogart/Bogart-Medium-Italic-trial.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Bogart-Regular";
+  src: url("/fonts/bogart/Bogart-Regular-trial.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Bogart-Semibold";
+  src: url("/fonts/bogart/Bogart-Semibold-trial.ttf") format("truetype");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Bogart-Semibold-Italic";
+  src: url("/fonts/bogart/Bogart-Semibold-Italic-trial.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Bogart-Thin";
+  src: url("/fonts/bogart/Bogart-Thin-trial.ttf") format("truetype");
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "Bogart-Thin-Italic";
+  src: url("/fonts/bogart/Bogart-Thin-Italic-trial.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+}
+
+/* Font Classes */
+.bogart-extrabold {
+  font-family: "Bogart-Extrabold", serif;
+}
+.bogart-extrabold-italic {
+  font-family: "Bogart-Extrabold-Italic", serif;
+}
+.bogart-extralight {
+  font-family: "Bogart-Extralight", serif;
+}
+.bogart-extralight-italic {
+  font-family: "Bogart-Extralight-Italic", serif;
+}
+.bogart-italic {
+  font-family: "Bogart-Italic", serif;
+}
+.bogart-light {
+  font-family: "Bogart-Light", serif;
+}
+.bogart-light-italic {
+  font-family: "Bogart-Light-Italic", serif;
+}
+.bogart-medium {
+  font-family: "Bogart-Medium", serif;
+}
+.bogart-medium-italic {
+  font-family: "Bogart-Medium-Italic", serif;
+}
+.bogart-regular {
+  font-family: "Bogart-Regular", serif;
+}
+.bogart-semibold {
+  font-family: "Bogart-Semibold", serif;
+}
+.bogart-semibold-italic {
+  font-family: "Bogart-Semibold-Italic", serif;
+}
+.bogart-thin {
+  font-family: "Bogart-Thin", serif;
+}
+.bogart-thin-italic {
+  font-family: "Bogart-Thin-Italic", serif;
+}
+
+/* AzoMonoTest Fonts */
+@font-face {
+  font-family: "AzoMonoTest-Bold";
+  src: url("/fonts/azosans/AzoMonoTest-Bold.otf") format("opentype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "AzoMonoTest-BoldItalic";
+  src: url("/fonts/azosans/AzoMonoTest-BoldItalic.otf") format("opentype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "AzoMonoTest-Italic";
+  src: url("/fonts/azosans/AzoMonoTest-Italic.otf") format("opentype");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "AzoMonoTest-Light";
+  src: url("/fonts/azosans/AzoMonoTest-Light.otf") format("opentype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "AzoMonoTest-LightItalic";
+  src: url("/fonts/azosans/AzoMonoTest-LightItalic.otf") format("opentype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "AzoMonoTest-Medium";
+  src: url("/fonts/azosans/AzoMonoTest-Medium.otf") format("opentype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "AzoMonoTest-MediumItalic";
+  src: url("/fonts/azosans/AzoMonoTest-MediumItalic.otf") format("opentype");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "AzoMonoTest-Regular";
+  src: url("/fonts/azosans/AzoMonoTest-Regular.otf") format("opentype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "AzoMonoTest-Thin";
+  src: url("/fonts/azosans/AzoMonoTest-Thin.otf") format("opentype");
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "AzoMonoTest-ThinItalic";
+  src: url("/fonts/azosans/AzoMonoTest-ThinItalic.otf") format("opentype");
+  font-weight: 100;
+  font-style: italic;
+}
+
+/* AzoSansTest Fonts */
+@font-face {
+  font-family: "AzoSansTest-Black";
+  src: url("/fonts/azosans/AzoSansTest-Black.otf") format("opentype");
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: "AzoSansTest-BlackItalic";
+  src: url("/fonts/azosans/AzoSansTest-BlackItalic.otf") format("opentype");
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "AzoSansTest-Bold";
+  src: url("/fonts/azosans/AzoSansTest-Bold.otf") format("opentype");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "AzoSansTest-BoldItalic";
+  src: url("/fonts/azosans/AzoSansTest-BoldItalic.otf") format("opentype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "AzoSansTest-Italic";
+  src: url("/fonts/azosans/AzoSansTest-Italic.otf") format("opentype");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "AzoSansTest-Light";
+  src: url("/fonts/azosans/AzoSansTest-Light.otf") format("opentype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "AzoSansTest-LightItalic";
+  src: url("/fonts/azosans/AzoSansTest-LightItalic.otf") format("opentype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "AzoSansTest-Medium";
+  src: url("/fonts/azosans/AzoSansTest-Medium.otf") format("opentype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "AzoSansTest-MediumItalic";
+  src: url("/fonts/azosans/AzoSansTest-MediumItalic.otf") format("opentype");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "AzoSansTest-Regular";
+  src: url("/fonts/azosans/AzoSansTest-Regular.otf") format("opentype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "AzoSansTest-Thin";
+  src: url("/fonts/azosans/AzoSansTest-Thin.otf") format("opentype");
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "AzoSansTest-ThinItalic";
+  src: url("/fonts/azosans/AzoSansTest-ThinItalic.otf") format("opentype");
+  font-weight: 100;
+  font-style: italic;
+}
+
+/* Font Classes */
+.azo-mono-bold {
+  font-family: "AzoMonoTest-Bold", monospace;
+}
+.azo-mono-bold-italic {
+  font-family: "AzoMonoTest-BoldItalic", monospace;
+}
+.azo-mono-italic {
+  font-family: "AzoMonoTest-Italic", monospace;
+}
+.azo-mono-light {
+  font-family: "AzoMonoTest-Light", monospace;
+}
+.azo-mono-light-italic {
+  font-family: "AzoMonoTest-LightItalic", monospace;
+}
+.azo-mono-medium {
+  font-family: "AzoMonoTest-Medium", monospace;
+}
+.azo-mono-medium-italic {
+  font-family: "AzoMonoTest-MediumItalic", monospace;
+}
+.azo-mono-regular {
+  font-family: "AzoMonoTest-Regular", monospace;
+}
+.azo-mono-thin {
+  font-family: "AzoMonoTest-Thin", monospace;
+}
+.azo-mono-thin-italic {
+  font-family: "AzoMonoTest-ThinItalic", monospace;
+}
+.azo-sans-black {
+  font-family: "AzoSansTest-Black", sans-serif;
+}
+.azo-sans-black-italic {
+  font-family: "AzoSansTest-BlackItalic", sans-serif;
+}
+.azo-sans-bold {
+  font-family: "AzoSansTest-Bold", sans-serif;
+}
+.azo-sans-bold-italic {
+  font-family: "AzoSansTest-BoldItalic", sans-serif;
+}
+.azo-sans-italic {
+  font-family: "AzoSansTest-Italic", sans-serif;
+}
+.azo-sans-light {
+  font-family: "AzoSansTest-Light", sans-serif;
+}
+.azo-sans-light-italic {
+  font-family: "AzoSansTest-LightItalic", sans-serif;
+}
+.azo-sans-medium {
+  font-family: "AzoSansTest-Medium", sans-serif;
+}
+.azo-sans-medium-italic {
+  font-family: "AzoSansTest-MediumItalic", sans-serif;
+}
+.azo-sans-regular {
+  font-family: "AzoSansTest-Regular", sans-serif;
+}
+.azo-sans-thin {
+  font-family: "AzoSansTest-Thin", sans-serif;
+}
+.azo-sans-thin-italic {
+  font-family: "AzoSansTest-ThinItalic", sans-serif;
+}
